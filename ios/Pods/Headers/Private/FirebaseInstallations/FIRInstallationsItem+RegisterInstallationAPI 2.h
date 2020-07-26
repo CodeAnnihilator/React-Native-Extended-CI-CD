@@ -1,0 +1,1 @@
+../../../FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI 2.h

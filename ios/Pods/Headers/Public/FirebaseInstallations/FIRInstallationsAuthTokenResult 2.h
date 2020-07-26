@@ -1,0 +1,1 @@
+../../../FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsAuthTokenResult 2.h

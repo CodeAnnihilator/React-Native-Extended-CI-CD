@@ -1,0 +1,1 @@
+../../../FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal 2.h

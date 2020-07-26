@@ -1,0 +1,1 @@
+../../../FirebaseCore/FirebaseCore/Sources/Private/FIRLibrary 3.h

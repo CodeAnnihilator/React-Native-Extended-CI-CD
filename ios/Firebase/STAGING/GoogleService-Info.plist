@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>184998533747-hnlef0drsr1gngspp1dtrn037aqv7ite.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.184998533747-hnlef0drsr1gngspp1dtrn037aqv7ite</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPJCMu8i88TXNVlPiDB2YxNRKDjhyUAaw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184998533747</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.DummyApp-STAGING</string>
+	<key>PROJECT_ID</key>
+	<string>dummyapp-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dummyapp-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184998533747:ios:e018f757adb3c6aa0fa806</string>
+	<key>DATABASE_URL</key>
+	<string>https://dummyapp-dev.firebaseio.com</string>
+</dict>
+</plist>

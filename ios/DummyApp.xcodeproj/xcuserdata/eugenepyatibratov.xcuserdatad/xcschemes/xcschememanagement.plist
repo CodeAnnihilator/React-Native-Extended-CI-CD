@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DummyApp-tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>DummyApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>DummyApp_DEV copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>DummyApp_DEV.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>DummyApp_PRE_RELEASE copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>DummyApp_PROD copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
+		<key>DummyApp_RELEASE.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>DummyApp_STAGING.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>DummyApp_UAT.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3529ACE424BC35C500375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3529AD7424BC3B5500375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3529AD8624BC3BE500375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3529AD9824BC3CF000375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3529ADAA24BC3D3400375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3529ADBC24BC3D8700375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3529ADCE24BC3DB100375F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

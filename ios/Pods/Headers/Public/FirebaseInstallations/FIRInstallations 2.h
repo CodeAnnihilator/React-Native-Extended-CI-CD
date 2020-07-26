@@ -1,0 +1,1 @@
+../../../FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallations 2.h

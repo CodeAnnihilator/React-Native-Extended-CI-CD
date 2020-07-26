@@ -1,0 +1,1 @@
+../../../FirebaseCoreDiagnostics/GoogleDataTransport/GDTCORLibrary/Internal/GoogleDataTransportInternal 2.h

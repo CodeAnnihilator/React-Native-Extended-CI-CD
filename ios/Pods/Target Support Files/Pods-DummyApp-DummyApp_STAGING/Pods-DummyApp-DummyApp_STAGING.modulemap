@@ -1,0 +1,6 @@
+module Pods_DummyApp_DummyApp_STAGING {
+  umbrella header "Pods-DummyApp-DummyApp_STAGING-umbrella.h"
+
+  export *
+  module * { export * }
+}
